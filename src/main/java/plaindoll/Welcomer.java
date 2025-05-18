@@ -7,10 +7,10 @@ public class Welcomer{
 	public String sayFarewell() {
 		return "Farewell, good hunter. May you find your worth in waking world.";
 	}
-	public String sayNeedGold(){
-		return "Not enough gold";
+	public String sayStatus() {
+		return "Hello! My status is Good";
 	}
-	public String saySome(){
-		return "something in the way";
+	public String sayHunterwho() {
+	    return "Who is hunter?";
 	}
 }
