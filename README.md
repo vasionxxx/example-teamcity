@@ -30,9 +30,7 @@
 Дополним тест для нового метода на поиск слова hunter в новой реплике.
 
 public String sayHunterwho() {
-
 	    return "Who is hunter?";
-     
 	}
 
 Тест сборки по ветке feature/add_reply
